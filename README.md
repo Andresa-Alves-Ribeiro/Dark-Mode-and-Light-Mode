@@ -9,6 +9,6 @@
 
 
 ## 💻 Projeto
-Dark mode and light mode é uma página no formato One Page, responsiva que consiste em transformar um site em modo claro e escuro com um simples clique de um botão.
+Dark mode and light mode é uma página no formato One Page, responsiva que consiste em transformar um site em modo claro ou escuro com um simples clique de um botão.
 
 Você pode acessar o projeto através [desse link](https://dark-mode-and-light-mode.vercel.app/).
